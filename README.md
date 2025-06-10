@@ -14,3 +14,6 @@ Clear and human-readable output in the terminal
 
 ## Usage:
 node github-activity.js <github-username>
+
+
+https://roadmap.sh/projects/github-user-activity
